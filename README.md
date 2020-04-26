@@ -1,5 +1,9 @@
-CAH-Generator
+Cah
 =============
+
+Imagemagick is a command line dependency, not a PHP module one.
+
+===
 
 Uses imagemagick to create Cards Against Humanity images for printing on actual cards through a print studio.
 
